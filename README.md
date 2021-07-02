@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkgarrett
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Responsive Web Design on FreeCodeCamp.org.
-- 📫 How to reach me on instagram: @machinegunpaddy
+- 📫 How to reach me: instagram: @machinegunpaddy
 
 <!---
 pkgarrett/pkgarrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
